@@ -1,0 +1,7 @@
+data/
+data2/
+opts.json
+*.xlsx
+*.pickle
+__pycache__
+output/
